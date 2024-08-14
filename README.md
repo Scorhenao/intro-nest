@@ -92,3 +92,8 @@ npx @nestjs/cli new project-name
 ```text
   nest generate resource users
 ```
+
+# create a module of an entitie
+```text
+nest g mo loans
+```
