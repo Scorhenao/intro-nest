@@ -97,3 +97,8 @@ npx @nestjs/cli new project-name
 ```text
 nest g mo loans
 ```
+
+# create a controller of an entitie
+```text
+nest g co loans
+```
