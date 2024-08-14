@@ -88,7 +88,7 @@ npx @nestjs/cli new project-name
   nest start
 ```
 
-# create a entitie
+# create an entitie
 ```text
   nest generate resource users
 ```
