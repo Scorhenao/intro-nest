@@ -102,3 +102,8 @@ nest g mo loans
 ```text
 nest g co loans
 ```
+
+# create a service of an entitie
+```text
+nest g s loans
+```
