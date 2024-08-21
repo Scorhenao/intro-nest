@@ -77,6 +77,9 @@ Nest is [MIT licensed](LICENSE).
 ```text
 npx @nestjs/cli new project-name
 ```
+```text
+nest n ex1
+```
 
 # dependencies 
 ```text
